@@ -1,2 +1,2 @@
 ![изображение](https://user-images.githubusercontent.com/109689632/216819453-7c8e430b-515c-4426-83f4-dcd0b93aa3e7.png)
-<img title="Stats" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=razenxc&show_icons=true&theme=radical" width="50%" height="195px"/><img title="Top Langs" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razenxc&layout=compact&theme=radical" width="50%" height="195px"/>
+<img title="Stats" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=razenxc&show_icons=true&theme=radical" width="50%" height="195px"/><img title="Top Langs" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerquis&layout=compact&theme=radical" width="50%" height="195px"/>
